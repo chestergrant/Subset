@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Subset</label>
+	</settings>
+	<users>
+		<user>
+			<path>Subset.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Subset.jcp</path>
+		</project>
+	</projects>
+</workspace>
